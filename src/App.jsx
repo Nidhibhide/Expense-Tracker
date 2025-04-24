@@ -10,3 +10,5 @@ function App() {
 }
 
 export default App;
+
+//display total when it remove it should be dynamic 
